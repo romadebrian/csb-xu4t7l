@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "https://romadebrian.github.io/csb-xu4t7l/static/js/main.d0dfb6d0.chunk.js",
+    "main.js.map": "https://romadebrian.github.io/csb-xu4t7l/static/js/main.d0dfb6d0.chunk.js.map",
+    "runtime-main.js": "https://romadebrian.github.io/csb-xu4t7l/static/js/runtime-main.6d656cd9.js",
+    "runtime-main.js.map": "https://romadebrian.github.io/csb-xu4t7l/static/js/runtime-main.6d656cd9.js.map",
+    "static/js/2.41983089.chunk.js": "https://romadebrian.github.io/csb-xu4t7l/static/js/2.41983089.chunk.js",
+    "static/js/2.41983089.chunk.js.map": "https://romadebrian.github.io/csb-xu4t7l/static/js/2.41983089.chunk.js.map",
+    "index.html": "https://romadebrian.github.io/csb-xu4t7l/index.html",
+    "static/js/2.41983089.chunk.js.LICENSE.txt": "https://romadebrian.github.io/csb-xu4t7l/static/js/2.41983089.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6d656cd9.js",
+    "static/js/2.41983089.chunk.js",
+    "static/js/main.d0dfb6d0.chunk.js"
+  ]
+}
